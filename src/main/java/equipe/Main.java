@@ -9,6 +9,6 @@ public class Main {
         System.out.println("2 + 3 = " + c.soma(2, 3));
         System.out.println("3 - 2 = " + c.subtracao(3, 2));
         System.out.println("2 * 3 = " + c.multiplicacao(2, 3));
-        System.out.println("teste")
+        System.out.println("teste");
     }
 }
