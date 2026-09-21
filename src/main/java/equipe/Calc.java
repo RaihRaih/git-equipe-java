@@ -4,7 +4,7 @@ public class Calc {
 
     // Pessoa A
     public int soma(int a, int b) {
-        return 0;
+        return a + b;
     }
 
     // Pessoa B
